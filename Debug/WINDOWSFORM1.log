@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\MyForm.h(63,22): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\MyForm.h(88,12): warning C4101: 'dataPH': unreferenced local variable
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\MyForm.h(87,12): warning C4101: 'dataNA': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\DOUBLY LINK LIST.h(99): warning C4715: 'DoubleLinkedList::DELETE_DLL': not all control paths return a value
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\DOUBLY LINK LIST.h(149): warning C4715: 'DoubleLinkedList::UPDATE_DLL': not all control paths return a value
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WINDOWSFORM1.vcxproj -> D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.exe

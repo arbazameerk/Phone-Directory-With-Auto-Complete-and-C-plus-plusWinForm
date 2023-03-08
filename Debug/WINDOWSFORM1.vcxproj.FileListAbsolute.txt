@@ -1,0 +1,21 @@
+C:\Users\DELL\Desktop\WINDOWSFORM1\Debug\WINDOWSFORM1.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WINDOWSFORM1\Debug\WINDOWSFORM1.exe
+C:\Users\DELL\Desktop\WINDOWSFORM1\Debug\WINDOWSFORM1.MyForm.resources
+C:\Users\DELL\Desktop\WINDOWSFORM1\Debug\WINDOWSFORM1.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.MyForm.resources
+C:\Users\DELL\Desktop\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.exe
+C:\Users\DELL\Desktop\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.MyForm.resources
+C:\Users\DELL\Desktop\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.exe
+D:\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.AssemblyReference.cache
+D:\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.MyForm.resources
+D:\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.GenerateResource.cache
+D:\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.exe
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.AssemblyReference.cache
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.SuggestedBindingRedirects.cache
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.MyForm.resources
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.vcxproj.GenerateResource.cache
+D:\UNIVERSITY\C++ CODES\DS\Phone Directory\WINDOWSFORM USING C++\Debug\WINDOWSFORM1.exe
